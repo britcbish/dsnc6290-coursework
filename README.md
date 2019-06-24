@@ -12,6 +12,7 @@ This<a href= "https://github.com/britcbish/dsnc6290-coursework/blob/master/MNIST
 ## House Sale Prices
 
 ### Using h2o.automl - StackEnsemble
-This<a href= "https://github.com/britcbish/dsnc6290-coursework/blob/master/House Sale Prices - H2OAUTOMIL.ipynb" rel = "nofollow"> jupyter notebook</a> produced the predictions that we submitted for this competition. We use a the h2o.automl feature, that resulted in a StackedEnsemble Model for a submission score of .12649 - this placed us at 1781/4694 on the leaderboard at the time of our submission.
+This<a href= "https://github.com/britcbish/dsnc6290-coursework/blob/master/House Sale Prices - H2OAUTOMIL.ipynb" rel = "nofollow"> jupyter notebook</a> produced the predictions that we submitted for this competition. We use a the h2o.automl feature, that resulted in a StackedEnsemble Model for a submission score of .12170 - this placed us at 1289/4658 on the leaderboard at the time of our submission.
 
+![Image of House Sale Prices Contest rank](https://github.com/britcbish/dsnc6290-coursework/blob/master/h2o_automl_rank.PNG)
 ![Image of House Sale Prices Contest score](https://github.com/britcbish/dsnc6290-coursework/blob/master/h2o_automl%20score.PNG)
