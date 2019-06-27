@@ -17,10 +17,7 @@ This<a href= "https://github.com/britcbish/dsnc6290-coursework/blob/master/House
 ![Image of House Sale Prices Contest rank](https://github.com/britcbish/dsnc6290-coursework/blob/master/h2o_automl_rank.PNG)
 ![Image of House Sale Prices Contest score](https://github.com/britcbish/dsnc6290-coursework/blob/master/h2o_automl%20score.PNG)
 
-
-## House Sale Prices
-
-### RF, XGB, GBM, LightGBM
+### Using RF, XGB, GBM, LightGBM
 This<a href= "https://github.com/britcbish/dsnc6290-coursework/blob/master/House%20Prices.ipynb" rel = "nofollow"> jupyter notebook</a> produced the predictions that we submitted for this competition. We used Random Forest, XG Boost, Gradient Boost Regressor(GBM), and LightGBM. We submited the best model, LightGBM, and recceived a score of .12188 - this placed us at 1313/4658 on the leaderboard at the time of our submission.
  
 ![Image of House Sale Prices Contest rank](https://github.com/britcbish/dsnc6290-coursework/blob/master/HousePricesRank.PNG)
