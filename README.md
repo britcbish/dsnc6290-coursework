@@ -26,5 +26,5 @@ This<a href= "https://github.com/britcbish/dsnc6290-coursework/blob/master/House
 ### Top submission
 This<a href= "https://github.com/britcbish/dsnc6290-coursework/blob/master/HPART.ipynb" rel = "nofollow"> jupyter notebook</a> combined our two efforts to create a submission that used some of our initial data preparation techniques and then h2o.automl for the modeling aspect. The averaged results of the top two models resulted in a submission score of .11768 and a ranking of 751/4577 on the leaderboard at the time of our submission.
 
-![Image of House Sale Prices Contest rank](https://github.com/britcbish/dsnc6290-coursework/blob/master/HPARTrank.JPG)
-![Image of House Sale Prices Contest score](https://github.com/britcbish/dsnc6290-coursework/blob/master/HPARTscore.JPG)
+![Image of House Sale Prices Contest rank](https://github.com/britcbish/dsnc6290-coursework/blob/master/HPARTrank.PNG)
+![Image of House Sale Prices Contest score](https://github.com/britcbish/dsnc6290-coursework/blob/master/HPARTscore.PNG)
