@@ -18,7 +18,7 @@ This<a href= "https://github.com/britcbish/dsnc6290-coursework/blob/master/House
 This<a href= "https://github.com/britcbish/dsnc6290-coursework/blob/master/House%20Prices.ipynb" rel = "nofollow"> jupyter notebook</a> put more emphasis on the exploration and preparation of the data before attempting to model. We used Random Forest, XG Boost, Gradient Boost Regressor(GBM), and LightGBM. We submited the best model, LightGBM, and recceived a score of .12188 which placed us at 1313/4658 on the leaderboard at the time of our submission.
 
 ### Top submission
-This<a href= "https://github.com/britcbish/dsnc6290-coursework/blob/master/HPART.ipynb" rel = "nofollow"> jupyter notebook</a> combined our two efforts to create a submission that used some of our initial data preparation techniques and then h2o.automl for the modeling aspect. The averaged results of the top two models resulted in a submission score of .11768 and a ranking of 751/4577 on the leaderboard at the time of our submission.
+This<a href= "https://github.com/britcbish/dsnc6290-coursework/blob/master/HPART.ipynb" rel = "nofollow"> jupyter notebook</a> combined our two efforts to create a submission that used some of our initial data preparation techniques and then h2o.automl for the modeling aspect. The averaged results of the top two models resulted in a submission score of .11768 and a ranking of 751/4580 on the leaderboard at the time of our submission.
 
 ![Image of House Sale Prices Contest rank](https://github.com/britcbish/dsnc6290-coursework/blob/master/HPARTrank.PNG)
 ![Image of House Sale Prices Contest score](https://github.com/britcbish/dsnc6290-coursework/blob/master/HPARTscore.PNG)
